@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Julia9696
+- 👀 I’m interested in aprender a programar novas linguagens
+- 🌱 I’m currently learning  a programar recentemente a linguagem de java script
+--->
